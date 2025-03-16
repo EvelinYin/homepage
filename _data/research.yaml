@@ -1,0 +1,14 @@
+papers:
+  - title: "Semantic and 3D-Consistent Language Gaussian Splatting"
+    venue: Under Submission
+    authors:
+      - name: <b>Hairong Yin</b>
+      - name: Huangying Zhan
+      - name: Yi Xu
+      - name: Raymond A. Yeh
+    # video: https://www.youtube.com/watch?v=U_2FcJqpJo0&feature=youtu.be
+    # pdf: https://arxiv.org/pdf/2410.22306
+    # project: https://haomengz.github.io/dlisa/
+    teaser: resource/projects/3DLangField/pipeline.png
+    # code: https://github.com/ca-joe-yang/discard-in-subsampling
+  

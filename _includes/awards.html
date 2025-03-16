@@ -4,7 +4,8 @@
   <ul>
     {% for award in site.data.awards.awards %}
       <li>
-        <a href={{award.link}}>{{award.name}}</a> | {{award.venue}}, {{award.year}}
+        <!-- <a href={{award.link}}>{{award.name}}</a> | {{award.venue}}, {{award.year}} -->
+        {{award.name}} | {{award.venue}}, {{award.year}}
       </li>
     {% endfor %}
   </ul>
