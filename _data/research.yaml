@@ -1,6 +1,6 @@
 papers:
   - title: "Semantic and 3D-Consistent Language Gaussian Splatting"
-    venue: Under Submission
+    # venue: Under Submission
     authors:
       - name: <b>Hairong Yin</b>
       - name: Huangying Zhan
