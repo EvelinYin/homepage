@@ -1,6 +1,6 @@
 papers:
   - title: "Semantic and 3D-Consistent Language Gaussian Splatting"
-    # venue: Under Submission
+    venue: ICAR26
     authors:
       - name: <b>Hairong Yin</b>
       - name: Huangying Zhan
@@ -10,5 +10,22 @@ papers:
     # pdf: https://arxiv.org/pdf/2410.22306
     # project: https://haomengz.github.io/dlisa/
     teaser: resource/projects/3DLangField/pipeline.png
+    # code: https://github.com/ca-joe-yang/discard-in-subsampling
+
+
+
+papers:
+  - title: "Understanding while Exploring: Semantics-driven Active Mapping"
+    venue: ICAR26
+    authors:
+      - name: Liyan Chen
+      - name: Huangying Zhan
+      - name: <b>Hairong Yin</b>
+      - name: Yi Xu
+      - name: Philippos Mordohai
+    # video: https://www.youtube.com/watch?v=U_2FcJqpJo0&feature=youtu.be
+    # pdf: https://arxiv.org/pdf/2410.22306
+    # project: https://haomengz.github.io/dlisa/
+    teaser: resource/projects/ActiveMapping/overview.jpg
     # code: https://github.com/ca-joe-yang/discard-in-subsampling
   
