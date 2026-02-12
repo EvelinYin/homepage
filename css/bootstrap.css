@@ -125,11 +125,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #8E6F3E;
+  /* color: #8E6F3E; */
+  color: #9825fc;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #594527;
+    color: #360074;
     text-decoration: underline; }
 
 a:not([href]) {
